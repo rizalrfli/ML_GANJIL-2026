@@ -28,7 +28,16 @@ Repository ini berisi kumpulan tugas praktikum, modul jobsheet, dan dataset untu
     │   ├── JS03-04.ipynb
     │   └── JS03-Tugas Lab.ipynb
     ├── JS04/
-    │   └── ...
+    │   ├── Dataset/
+    │   │   ├── dataset.csv
+    │   │   ├── insurance.csv
+    │   │   ├── Posisi_gaji.csv
+    │   │   └── Titanic-Dataset-selected.csv
+    │   ├── images/
+    │   ├── JS04-01.ipynb
+    │   ├── JS04-02.ipynb
+    │   ├── JS04-03.ipynb
+    │   └── JS04-TUGAS LAB.ipynb
     └── JS05/
         └── ...
 ```
@@ -41,7 +50,7 @@ Repository ini berisi kumpulan tugas praktikum, modul jobsheet, dan dataset untu
 | :--- | :--- | :---: |
 | [**`JS02/`**](./JS02) | Jobsheet 02 - Data Preprocessing & Visualisasi | Selesai |
 | [**`JS03/`**](./JS03) | Jobsheet 03 | Selesai |
-| [**`JS04/`**](./JS04) | Jobsheet 04 | *In Progress / Mendatang* |
+| [**`JS04/`**](./JS04) | Jobsheet 04 - Regresi Linier Berganda & SVR | Selesai |
 | [**`JS05/`**](./JS05) | Jobsheet 05 | *In Progress / Mendatang* |
 
 ---
