@@ -51,6 +51,16 @@ Repository ini berisi kumpulan tugas praktikum, modul jobsheet, dan dataset untu
 | [**`JS02/`**](./JS02) | Jobsheet 02 - Data Preprocessing & Visualisasi | Selesai |
 | [**`JS03/`**](./JS03) | Jobsheet 03 | Selesai |
 | [**`JS04/`**](./JS04) | Jobsheet 04 - Regresi Linier Berganda & SVR | Selesai |
-| [**`JS05/`**](./JS05) | Jobsheet 05 | *In Progress / Mendatang* |
+| [**`JS05/`**](./JS05) | Jobsheet 05 - Klasifikasi 1 (kNN & Naive Bayes) | Selesai |
+| [**`JS06/`**](./JS06) | Jobsheet 06 - Klasifikasi 2 (SVM) | Selesai |
+| [**`JS07/`**](./JS07) | Jobsheet 07 - Klasterisasi (K-Means & DBSCAN) | Selesai |
+| [**`JS08/`**](./JS08) | Jobsheet 08 - Hierarchical Clustering | Selesai |
+| [**`JS09/`**](./JS09) | Jobsheet 09 - Approximate Nearest Neighbors | Selesai |
+| [**`JS10/`**](./JS10) | Jobsheet 10 - Artificial Neural Network | Selesai |
+| [**`JS11/`**](./JS11) | Jobsheet 11 - Convolutional Neural Network | Selesai |
+
+### Catatan JS11
+
+Dataset Cats vs. Dogs (233 MB) tidak disimpan di repository. Unduh dari tautan pada modul, lalu ekstrak di `JS11/` sehingga terbentuk `JS11/dataset/{training_set,test_set,single_prediction}`. File model `*.keras` juga diabaikan oleh Git.
 
 ---
